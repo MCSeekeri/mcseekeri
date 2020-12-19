@@ -1,4 +1,4 @@
-![这一切都是破石头门的选择！](https://7.dusays.com/2020/12/19/f2e1e590578ac.jpg)
+![](https://cdn.jsdelivr.net/gh/MCSeekeri/CDN@master/img/FutureGadgetLab.jpg)
 ### 你好！
 我是低技术力技术爱好者MC探索者i（
 
