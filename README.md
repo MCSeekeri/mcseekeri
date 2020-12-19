@@ -13,7 +13,7 @@
 
 - 📫 我的邮箱是 **mcseekeri@outlook.com**
 
-- 📄 我的GnuPG公钥在此 [https://keybase.io/mcseekeri](https://keybase.io/mcseekeri)
+- 📄 我的GnuPG公钥[在此](https://github.com/mcseekeri.gpg)
 
 - ~~⚡ 热爱白嫖,羊毛怎能放过（~~
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mcseekeri&show_icons=true&theme=dracula&locale=en&layout=compact&count_private=true" alt="mcseekeri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcseekeri&show_icons=true&theme=tokyonight&locale=en" alt="mcseekeri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcseekeri&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="mcseekeri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcseekeri&theme=highcontrast" alt="mcseekeri" /></p>
