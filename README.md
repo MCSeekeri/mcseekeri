@@ -1,12 +1,9 @@
 <h1 align="center">你好👋, 我是 MC探索者i</h1>
 <h3 align="center">一个普通的技术爱好者</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcseekeri&label=Profile%20views&color=0e75b6&style=plastic" alt="mcseekeri" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcseekeri" alt="mcseekeri" /></a> </p>
 
-- 🔭 我正在为了我的博客忙活（ [博客链接](https://mcseekeri.top)
-
+- 🔭 我正在为了我的[博客](https://mcseekeri.top)和[科A图书馆](https://sciadv.mcseekeri.top)忙活
 - 🌱 目前我在学习前端开发相关 
 
 - 🤝 如果可以,我希望有人能在HTML入门方面提供指导
@@ -15,7 +12,7 @@
 
 - 📄 我的GnuPG公钥[在此](https://github.com/mcseekeri.gpg)
 
-- ~~⚡ 热爱白嫖,羊毛怎能放过（~~
+- ~~⚡ 我热爱白嫖,羊毛怎能放过（~~
 
 
 <h3 align="left">Languages and Tools:</h3>
