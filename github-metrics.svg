@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    389k added, 60.7k removed
+                                    594k added, 142k removed
                                 </div>
                             </section>
                             <section>
@@ -313,10 +313,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="220.43 329"/>
-                                <text x="60" y="60" dominant-baseline="central">67</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="302.68 329"/>
+                                <text x="60" y="60" dominant-baseline="central">92</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -370,13 +370,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.39 s</div>
+                        <div class="audit text">1.18 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.64 s</div>
+                        <div class="audit text">1.18 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -412,13 +412,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.39 s</div>
+                        <div class="audit text">1.18 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.64 s</div>
+                        <div class="audit text">1.18 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -1195,7 +1195,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 957k out of 53.1m repositories</span>
+                                    <span class="gh">ranked 957k out of 56.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 25 stars</div>
                             </div>
@@ -1241,7 +1241,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.59m out of 53.1m repositories</span>
+                                    <span class="gh">ranked 2.59m out of 56.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1692,7 +1692,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        8 hours played
+                                        9 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1709,7 +1709,27 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            11 / 33 achievements unlocked
+                                            13 / 33 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwj/xAApEAACAQQBAwMEAwEAAAAAAAABAgMEBQYRIQASMQcTFBUiI0EWMkJR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOc8PxqbJK6ZPkQ0VvpI/fra2c6Smh7gCxH+j9w0g5Y8Do7JfMOs2oLRjP1p0ADVt4nkUSHtKsVhiZQinewGZiDrn9dFJ6Q0+D4vYYi0SXOKe+1/91MwQukKkH9ARvojg9++db6dF9HsctWHU1Xk1c6ZG9THSz0NLVoI6d5FMie45BK/iUudbJ8DZPQTeO8YZe/wXbHmsMrDS11pnkkSNu3tUvDIW7lB+49rBjz58dL+X45UY1c0p5pYamlqI/kUdXAwaOpgJIWRdHjfaftOiCCCAerRVejuPV+FvWY3VzfyYNKq2utqVAf2SPe7DpS2lZSDx556n9E/1X00yS2TEsthqYrhRdzMfbSVxFMgAB8kxNzoDTHyeQKUkkVbhOOXsaCWuCpstYRsCMuXkgYkk/2EjjfABXWunqx+ptsjwOisF6u0NdLCRJ8uRn+QrAnt/IDz2qSvIIKkqdjjqF4hktRjdfNJHDDV0VVH8eso513HUwkglG/Y5AIYaIIBB6PTWfCbwGqLXkU1jcgs1FdKZ5QhC9x7JYge5d7Ve5Qx0N+egp+U+p1BPg5x+w3CCkaSQ+5WxyOKkhjuQtKxJPfoA68jjwNdTmj3afTTIrnKGi/kNTHQUKsGBkiicSTOCOCAREujwdt/zjBLThFib37nfpsilTfbRWyB4YnYaIDzyaIU7I+1SeD44PS5luRVOS3NamojhgghjEFLSwIFjp4VJ7Y1AHIG/J5PkknoP//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Wealth redistribution 4</div>
+                                                <div class="unlocked">16 Dec 2023</div>
+                                            </div>
+                                            <div class="description">Steal items worth 100000</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAQP/xAApEAACAQQCAQMEAgMAAAAAAAABAgMEBQYREiEABxMxFBUiQSMyQlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJzw/Gpskrpk+ohorfSR+/W1s50lNDyALa/yP5DSDtj0PCuOpxS1qsVqxyO6uNL9ZeqmRfdbgQeNPCRwU/2UMzHetH9edapRbsGxOxQcI5bwWu1QJmaJJj7rQwhy3QCqshBHR5b70N0PdaTG8PuL0VDjFpkudQVmp6ujICxwBQI/ceTYklb+TagadRskfPgTjPUYjcl9u74+LMWGluNmqJJI424hVLwSklk3pjxYE7+TvXgnl+OVONXNKeaWGppaiMVFHVwMGjqYCSFkXvrfE/idEEEEA+Oj1vtUBxJrqlsET1Ipqinl46aOBgSV/wCg7jOz2OJB7B2ubLM159Kb9b6pi5sc8VxoyzN+CSuIpkAAPyTG3egNMf32GZHAbx6aY1eKVeX2n3LRWcQf49yNLCx2TvkHcb6AK68L/RzNrPUy/avUH6ye3RwiFZYppAXjBbUMqr/dNsQP2ORHwSPFjiGS1GN180kcMNXRVUf09ZRzruOphJBKN+x2AQw0QQCD4Qm2Ybcy1VZslqbBIVJajuVO8gXShmCTRb5LvYUMoY6G/AY/qvnFNk9gxuSlu9VLR0UNQKgzUqUaVIZtKiwgnfFVC7Gx0Nd70u7fGLL6YZBcWVolyCojt9ArBwXiicSzMCOiAfaXR6Oz/rrZaHDrXN9Ve8iqcnqUBC0lvhkijcgAqHnk0Qh2R+Ck9H4+fBfLciqclua1NRHDBBDGIKWlhQLHTwqTxjUAdgb+T2fkknwP/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Console gamer</div>
+                                                <div class="unlocked">16 Dec 2023</div>
+                                            </div>
+                                            <div class="description">Steal 5 consoles </div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1723,28 +1743,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGAP/EACwQAAEDAwMDAwQCAwAAAAAAAAECAwQFBhEAEiEHMUETFCIIFTJSI2GBkaH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8AOdn209ck91sSGYcCK37ibNfOG4zIUAVn9jyMJHKjwNVeh2HJfpEabZvTl244Tyct1SrSwgP4CkKUhhDidiSckBRUQQOdYe4HFUbpjbVMj7mzWVu1WZ+afUCFqaZSQeCE7XDkcHcO+NLXoE0U9IrTkAu8RHEkI9Q5/mc8JUE/7Gf77aA93NZaafS/dX1Yb1px1rDKKpS5XqttuKTtRvYUtZUn4knaQc579tSu7bdk21VfaSHWZDDqA/FlMrCm5LCidjicHgHHY8jsQDpefVchbfRkJcUVKFTY5O79VfsSf+6MsB1Va6R1SLJO5dvzGpURSlK+LUglDqAAMfmltXOAPl5OCHV5g1jpfbtUio3fZnHaXM2pP8YWtTzKiST+W5weACAPOl10JRHa6H2rLkNqcKWFoCUoSokF5eRyOx5zzoTWfcki2qi682yzLhyW/bzYb6QW5LJIJbV5HKQQoYIIBB1RIFyMmntNWp1JrVsRWknbS56nvTZ+O9QbcZ3BSdxUBlIUfI5zoLr9VzzL/RkKiMKZj/cmNmUbN3C8nb3H+dGWC2uh9JKnJkZQ5cUtqNFSdw3sxyVurBHBG9TacHznHI40VYr8H2vpXjftWvJptz1E0uI48lhxacbd7zuCEkKIyhJPB7d9Tq7LhlXJVBLlIaZaabSxGjsoCG47KfwbSB4A89z3POg//9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Debt free man</div>
-                                                <div class="unlocked">16 Dec 2023</div>
-                                            </div>
-                                            <div class="description">Get fired</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQgEBgcC/8QAKRAAAgEEAQQBBAIDAAAAAAAAAQIDBAUGERIAByExIhMUQVEjYTIzQv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBd8IxSryy6PT07rBS06fWq6pwSsEXIAtxHl28jSL8mPgdXM0VrtAENnwOtvDqAGrb00sYkPEqxWCMrwUk7AZmIOvP460jDO3mQVXYW3R4p9CG5XuWSoqZJ5zBwh8qp+XslQVBUa4ux87B67xfstmVixw06G0vc0u1Nc4pDWAxaiDAo2038uXn8fEdBmi2603n+C74PcLHKw0tdZzLMkbcQq84HLclB+R4sGPn366o+Z4zV4td/tKp45oZU+tS1MZ+FRCWIVwPa74natpgQQQCOmDu/Ya63G9XC41FNAKCFY4bdbae5pG4TzsyTGMga8nwpJLewB1M70dv6yn7OTVddI09VapYp15y/UkCsFRyxQaLEcAzeATGX8FiOgvGE4pjdX2yx/JLxLRCFbdbqionngSRUFKutbbyAfTD+j++p+KJ2hqIpaWlqcTuNQHlqHeWOANp5C2vI9DloD8ADpNsUzu84+325qZq2zyRGnqLZUys0E0LHbJx/53+10R+D0RmtGE3gNUWvIprG5BZqK6UryhCF5HhLEDyXe1XkoY6G/fQNrkx7QU1ZRRT1uK26qpaiKs1FHCS4XfwbQ/xO/X9Dof3HxWwYz2kv92t8tHCZbRPSxTxwLGs61EqyAfH2T8VX9b6VxLVhFiYz3O/TZFKm+NFbIHhikYaIDzyAEIdkfFSfB9eD0OzHuBkGUvJDW3CojtWkjhtscpFPFGn+tQno8RocjsnWyeg//9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Car enthusiast 4</div>
-                                                <div class="unlocked">16 Dec 2023</div>
-                                            </div>
-                                            <div class="description">Steal Vulcan Spectre</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+8 others...</div>
+                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1905,7 +1905,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Dec 2023, 19:04:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Dec 2023, 20:11:33 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
