@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    222k added, 37.2k removed
+                                    216k added, 33.2k removed
                                 </div>
                             </section>
                             <section>
@@ -313,10 +313,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
-                                <text x="60" y="60" dominant-baseline="central">95</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="256.62 329"/>
+                                <text x="60" y="60" dominant-baseline="central">78</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -331,8 +331,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <text x="60" y="60" dominant-baseline="central">95</text>
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
@@ -370,13 +370,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.96 s</div>
+                        <div class="audit text">0.47 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.96 s</div>
+                        <div class="audit text">0.54 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -412,13 +412,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.96 s</div>
+                        <div class="audit text">0.47 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.96 s</div>
+                        <div class="audit text">0.54 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -1183,7 +1183,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 959k out of 52.2m repositories</span>
+                                    <span class="gh">ranked 959k out of 55.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 25 stars</div>
                             </div>
@@ -1229,7 +1229,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.60m out of 52.2m repositories</span>
+                                    <span class="gh">ranked 2.60m out of 55.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1701,7 +1701,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAwj/xAApEAACAQQBAwMEAwEAAAAAAAABAgMEBQYRIQASMQcTFBUiI0EWMkJR/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AOc8PxqbJK6ZPkQ0VvpI/fra2c6Smh7gCxH+j9w0g5Y8Do7JfMOs2oLRjP1p0ADVt4nkUSHtKsVhiZQinewGZiDrn9dFJ6Q0+D4vYYi0SXOKe+1/91MwQukKkH9ARvojg9++db6dF9HsctWHU1Xk1c6ZG9THSz0NLVoI6d5FMie45BK/iUudbJ8DZPQTeO8YZe/wXbHmsMrDS11pnkkSNu3tUvDIW7lB+49rBjz58dL+X45UY1c0p5pYamlqI/kUdXAwaOpgJIWRdHjfaftOiCCCAerRVejuPV+FvWY3VzfyYNKq2utqVAf2SPe7DpS2lZSDx556n9E/1X00yS2TEsthqYrhRdzMfbSVxFMgAB8kxNzoDTHyeQKUkkVbhOOXsaCWuCpstYRsCMuXkgYkk/2EjjfABXWunqx+ptsjwOisF6u0NdLCRJ8uRn+QrAnt/IDz2qSvIIKkqdjjqF4hktRjdfNJHDDV0VVH8eso513HUwkglG/Y5AIYaIIBB6PTWfCbwGqLXkU1jcgs1FdKZ5QhC9x7JYge5d7Ve5Qx0N+egp+U+p1BPg5x+w3CCkaSQ+5WxyOKkhjuQtKxJPfoA68jjwNdTmj3afTTIrnKGi/kNTHQUKsGBkiicSTOCOCAREujwdt/zjBLThFib37nfpsilTfbRWyB4YnYaIDzyaIU7I+1SeD44PS5luRVOS3NamojhgghjEFLSwIFjp4VJ7Y1AHIG/J5PkknoP//Z" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Wealth redistribution 4</div>
@@ -1711,7 +1711,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAQP/xAApEAACAQQCAQMEAgMAAAAAAAABAgMEBQYREiEABxMxFBUiQSMyQlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJzw/Gpskrpk+ohorfSR+/W1s50lNDyALa/yP5DSDtj0PCuOpxS1qsVqxyO6uNL9ZeqmRfdbgQeNPCRwU/2UMzHetH9edapRbsGxOxQcI5bwWu1QJmaJJj7rQwhy3QCqshBHR5b70N0PdaTG8PuL0VDjFpkudQVmp6ujICxwBQI/ceTYklb+TagadRskfPgTjPUYjcl9u74+LMWGluNmqJJI424hVLwSklk3pjxYE7+TvXgnl+OVONXNKeaWGppaiMVFHVwMGjqYCSFkXvrfE/idEEEEA+Oj1vtUBxJrqlsET1Ipqinl46aOBgSV/wCg7jOz2OJB7B2ubLM159Kb9b6pi5sc8VxoyzN+CSuIpkAAPyTG3egNMf32GZHAbx6aY1eKVeX2n3LRWcQf49yNLCx2TvkHcb6AK68L/RzNrPUy/avUH6ye3RwiFZYppAXjBbUMqr/dNsQP2ORHwSPFjiGS1GN180kcMNXRVUf09ZRzruOphJBKN+x2AQw0QQCD4Qm2Ybcy1VZslqbBIVJajuVO8gXShmCTRb5LvYUMoY6G/AY/qvnFNk9gxuSlu9VLR0UNQKgzUqUaVIZtKiwgnfFVC7Gx0Nd70u7fGLL6YZBcWVolyCojt9ArBwXiicSzMCOiAfaXR6Oz/rrZaHDrXN9Ve8iqcnqUBC0lvhkijcgAqHnk0Qh2R+Ck9H4+fBfLciqclua1NRHDBBDGIKWlhQLHTwqTxjUAdgb+T2fkknwP/9k=" alt="" />
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Console gamer</div>
@@ -1893,7 +1893,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2023, 10:19:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Dec 2023, 11:08:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
