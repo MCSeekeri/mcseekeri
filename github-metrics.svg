@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    479k added, 114k removed
+                                    312k added, 1.12k removed
                                 </div>
                             </section>
                             <section>
@@ -315,8 +315,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="256.62 329"/>
-                                <text x="60" y="60" dominant-baseline="central">78</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="263.2 329"/>
+                                <text x="60" y="60" dominant-baseline="central">80</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -370,13 +370,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">1.01 s</div>
+                        <div class="audit text">0.70 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">1.01 s</div>
+                        <div class="audit text">0.70 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -412,13 +412,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">1.01 s</div>
+                        <div class="audit text">0.70 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">1.01 s</div>
+                        <div class="audit text">0.70 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -510,7 +510,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lrsjng/h5ai</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP web server index for Apache httpd, lighttpd and nginx.</div>
@@ -1183,7 +1183,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 960k out of 56.1m repositories</span>
+                                    <span class="gh">ranked 960k out of 57.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 25 stars</div>
                             </div>
@@ -1229,7 +1229,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.58m out of 56.1m repositories</span>
+                                    <span class="gh">ranked 2.60m out of 57.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1541,7 +1541,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREAEiEGMUETUWEHIoEUFSOhsf/EABgBAAIDAAAAAAAAAAAAAAAAAAMFAAEE/8QAJREAAQMEAQIHAAAAAAAAAAAAAQIDEQAEITESBXEiMkFhgZHB/9oADAMBAAIRAxEAPwDm6z2Y3CMOCcZxpnXo6mSFHkDEEhSScAk/5o76TWiS7yimgMSscyM87hI0Udzk/jjyTqgz3D9snrLHT0cFZFPS76qWemBeJMttVfuOC+0/IHOdLHDcLchHlB7ULxE41UvqukKeL7yjqoHOGyPz7aXb7ZloIRJGGxn3yMastx6euNugSW2zrWUrqHSKoO2VARkDd2bj3xqa9aQVlJRPFUU6KjPv3RvuCZ7g9vPxqM3KHFJLTk+xqgqTg1odD+tQWhapf0+6oEsMEkzn04WKHcWAGSSBhR5Oi7dFFST0EnUc1ZBcZWcQMCmEYAAMzc7lHHBA4yNTikqSgb+RlcY288ceDppjvdFNRUhrqkyVcEBiUlAy8nPIPc9gTo73NOE6O4me/wB0RRgCKptJ1fA9lo45IpC5TJ24wgycDv28/wBaQuvataykl2g7FOc55+Dj2Oha7qynkpvSiXZGobbHFwASST38c+fGl24XhKumcLCyTyhVkbdkYXtgeNYbexKXS5xjP7TRLHTyyVzC4OJPx6bmMTEHciv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>PURE SATISFACTION</div>
@@ -1551,7 +1551,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcCAwYE/8QAKhAAAgEDBAECBQUAAAAAAAAAAQIDBAURAAYSITFBURMiIzJhQlJxsfD/xAAXAQADAQAAAAAAAAAAAAAAAAADBAUB/8QAJBEAAgEEAQIHAAAAAAAAAAAAAQIDAAQRITESQRRRUmGR0fD/2gAMAwEAAhEDEQA/AEHtu1U9VBG1RCpR8LzIzhietGLtty20jxI0tLFzGUEjqpf0OM+mubZ0JlggjJxzwPGjm2aWkvd2mqrtAppaiNYrfBUYKsiN8xBz94OCVyPuPnUhixkdyx6V8qOb1PDtCU36u/7v91n59tRJEJY0R4icBlYMpPsCOtBLzbI6aBnEfBh+etN6Pa6WieSniiSninmMkRViY5Q/XCQevE5KsPAb8EHBb2gSGOqSMlo1ZgpPkgHrWxzESLhsg/NT1bYwas2PKka0Ymcxxl1LOBkquezjTKoaij+unU8AOVadA3L15EH9RJJz+dJuxXumpaRYnJWQDGSP60cpt20sYDCQHroHrH86VvLeZyQgI3nIoU0btkCmBLXxXS6vaqiZUqnRXopHPFFbGPgt6BWxkEeDpcbzMkcVTBMjRyRsyOjDDKw8gj31TcdwUlZIk3xMTRg8WBx17H/dHUN13233igaocSC8N9OZ42HCfGAJGH7sdEg9403bWuVRmGGXn3oscegTyK//2Q==" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>GET SKEETED ON</div>
@@ -1711,7 +1711,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIAQP/xAApEAACAQQCAQMEAgMAAAAAAAABAgMEBQYREiEABxMxFBUiQSMyQlFh/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AJzw/Gpskrpk+ohorfSR+/W1s50lNDyALa/yP5DSDtj0PCuOpxS1qsVqxyO6uNL9ZeqmRfdbgQeNPCRwU/2UMzHetH9edapRbsGxOxQcI5bwWu1QJmaJJj7rQwhy3QCqshBHR5b70N0PdaTG8PuL0VDjFpkudQVmp6ujICxwBQI/ceTYklb+TagadRskfPgTjPUYjcl9u74+LMWGluNmqJJI424hVLwSklk3pjxYE7+TvXgnl+OVONXNKeaWGppaiMVFHVwMGjqYCSFkXvrfE/idEEEEA+Oj1vtUBxJrqlsET1Ipqinl46aOBgSV/wCg7jOz2OJB7B2ubLM159Kb9b6pi5sc8VxoyzN+CSuIpkAAPyTG3egNMf32GZHAbx6aY1eKVeX2n3LRWcQf49yNLCx2TvkHcb6AK68L/RzNrPUy/avUH6ye3RwiFZYppAXjBbUMqr/dNsQP2ORHwSPFjiGS1GN180kcMNXRVUf09ZRzruOphJBKN+x2AQw0QQCD4Qm2Ybcy1VZslqbBIVJajuVO8gXShmCTRb5LvYUMoY6G/AY/qvnFNk9gxuSlu9VLR0UNQKgzUqUaVIZtKiwgnfFVC7Gx0Nd70u7fGLL6YZBcWVolyCojt9ArBwXiicSzMCOiAfaXR6Oz/rrZaHDrXN9Ve8iqcnqUBC0lvhkijcgAqHnk0Qh2R+Ck9H4+fBfLciqclua1NRHDBBDGIKWlhQLHTwqTxjUAdgb+T2fkknwP/9k=" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Console gamer</div>
@@ -1721,7 +1721,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABggBBAUHCf/EACgQAAIBBAIBBAICAwAAAAAAAAECAwQFBhESIQAHEyIxCEEUYRdCUv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwBc8PxqbJK6ZP5ENFb6SP362tnOkpoeQBYj/Y/IaQdseh4XStYLJY47laMNnvdt93+MbvdpZBE8wQhlEUTAR73yCszN0Dvryhk8rWb01xiz0/KM3USXis6Zfd+bRQgg/pQjkEdHnvvW/Cv8Xo47rmM9kuFLFXWuoRZpaadBJEWVgNlTsb0x7/oeBj3tVpueLQ3y+4VWY9aaiQwQ3m1ySPCr8Aql4ZSxaPfZKsCTsAk9eAWX45U41c0p5pYamlqIxUUdXAwaOpgJIWRdHrfE/E6IIIIB86NVFvor5SSUNVTQSWNEMJp2Qe3Noa1r64L+v7G/0PFH9VcOjx+w5LYoJTNabbLFebK7yFmSCaQQzR6Gzrnw0W0CFLA99gK02M1vqDi+FJYkjasppnsdTy2qxFneaJ2Oz0VaTZH/ADoD62yno56JNgdJUyVV1jnuVV8ZZYIte0g+hGW/f38tAjZ14nmBZhcMLvYuFu4ujgR1ED9LNGGDcSR2vYBDLogjo+bwrvWibILWEtuYixS+3p4bpQPM2wm2KypyVgTsDaAnXf34Bx+QHqguCxUtsx51nuUqn4zu0kaRjrkyb0RsaUfWwxIIABX43G4/47yPIL/VT1FwyaojoaeWZn5TJE4kmcEdaBESaPXZAHx6i6jFkuc11yjKKvLbixJNPQwvEkrKF4h55NFUI6+Ckjjrro+B+W5FU5Lc1qaiOGCCGMQUtLCgWOnhUnjGoA71v7PZ+ySfA//Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Sneaky sneak</div>
@@ -1851,7 +1851,7 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUGBAf/xAAsEAABAwMDAgUDBQAAAAAAAAABAgMEBQYRACExEhMHQWFxgRRRkRUjMlKx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBBf/EABoRAQEBAQADAAAAAAAAAAAAAAERAAISIUH/2gAMAwEAAhEDEQA/AKe0Lep9Tpj0uouOAhxSQQ70JSAeSfXTdq1bdckux25Dq3mWw64lMkkIQeCTwOD56z2ZS4VYtlcapxkSGfqFkBfkc8jfY76VXT4eNQIEuZSZymmG21LdZfVhJSBuAof4Rrnq3QE5suoV2hb6YipZedEUI7neMk9AT/bPGNSlRiUh+iu1Kh/WBpmSljrfJw7nG6c77ak4tQkzlw6dUKhKNMU82lbZdPShOQM4O2w+Brp17NRI1pxI9NDYhpW32u2rqSpOec+eec+ugt006FDBtF+oR7VW7SYTMyUJC/23HejKc74+5/GskaVL8QZqoMxP6dT4eHJMdCiVvLyQBkjYDHxzvtgVp3JGo8FxiS08V9alJKEFXJ89MY9y0JisSaoluYmXIaS06A0ek9J59+PxojdokC5Z4oWzEg0yLUKdFaZajkMvIbTsUn+Kj9znYn1GmV4OuvWhTnX47DK1lpXQycoQDuAPjGjVW7aLU6fKgyUTCzIQW1EM7jPn7jbSi5a/Bn0aPT6e0+EtFsJ7iCnATgD3OgNzrx9z7v/Z" alt="" />
                                         <div>
                                             <div class="name">
                                                 <div>Off the Plane</div>
@@ -1893,7 +1893,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Dec 2023, 12:08:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2023, 13:06:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
