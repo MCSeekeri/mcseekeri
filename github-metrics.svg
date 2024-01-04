@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.18m added, 1.65m removed
+                                    437k added, 33.7k removed
                                 </div>
                             </section>
                             <section>
@@ -315,8 +315,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="256.62 329"/>
-                                <text x="60" y="60" dominant-baseline="central">78</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="223.72000000000003 329"/>
+                                <text x="60" y="60" dominant-baseline="central">68</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -331,8 +331,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <text x="60" y="60" dominant-baseline="central">95</text>
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
@@ -370,13 +370,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.66 s</div>
+                        <div class="audit text">1.04 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.67 s</div>
+                        <div class="audit text">1.04 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -412,13 +412,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.66 s</div>
+                        <div class="audit text">1.04 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.67 s</div>
+                        <div class="audit text">1.04 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -850,7 +850,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.20670773442848 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.29158110882956 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1177,7 +1177,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 964k out of 46.8m repositories</span>
+                                    <span class="gh">ranked 964k out of 54.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 25 stars</div>
                             </div>
@@ -1223,7 +1223,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.60m out of 46.8m repositories</span>
+                                    <span class="gh">ranked 2.60m out of 54.6m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1682,7 +1682,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 3 Jan 2024
+                                        Last played on 4 Jan 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -1691,7 +1691,27 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 13 achievements unlocked
+                                            7 / 13 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAgMAAQQI/8QAKhAAAgECAwcDBQAAAAAAAAAAAQIAESEDBBIFEyIxUXHRQVSSFSNSYfH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAwT/xAAdEQACAgMAAwAAAAAAAAAAAAAAAQORExRSETFC/9oADAMBAAIRAxEAPwDn4bUzqgKuYIAsOFfEsbWz/uX+K+JjIoW7y1UswCgk9BJYY+VRo2p19u2a/q2f9y/xXxKO086/C2YYg2I0r4iNKYZ+4dTfip5dzCxGRgirSxsFFowx8qhtT9u2NwnK4YOGdNWOq/O/8icw5LlBRUBuFtU+tesUmK6E6HYV6GDf0rKIgwpAbr3g3/ce26GAo1JvFNagHivyjyEn7P/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>DAS ENDE</div>
+                                                <div class="unlocked">4 Jan 2024</div>
+                                            </div>
+                                            <div class="description"></div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAgEDBAUGCP/EACwQAAIBAgUACAcAAAAAAAAAAAECAwARBAUSITEGEyIjUWFx0TJBgZGh4fH/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwX/xAAhEQACAgIBBAMAAAAAAAAAAAABAgADBBFBEhMhImFxkf/aAAwDAQACEQMRAD8A5/jzHHlljinYngKFX2qSmIzZtHezDWQF7A3v9Kr4Z3gkYofEW8jsRWqzPp1nObZUuAxUkQhBTToTSw0cb32oz0jXqo/BG1ZThtO7a+zIU2F6RJI40TgLyCUJH2qoOZ41xpbEMQdiCq+1TZsbmGFTTNJMqOb6W4Nv7VQSXkBO7Frk+NTx0Dgl1X40JfMtNTBa3ffOzEPLevFGfhTzFvzTV7najVwE0shNjcEbUziZnM0Ofd9lcUvJUqb+o/dZ0cr60/NjJ5YhEzWjAA0gfIcULdUIR2k6xTe4B7W/FHxqjUnQTG52QuTb3FGvAn//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>GESTALTZERFALL</div>
+                                                <div class="unlocked">4 Jan 2024</div>
+                                            </div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1705,28 +1725,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYF/8QAKRAAAQMDAwMEAgMAAAAAAAAAAQIDBAAFEQYSIRMiMQcUUZFBYYGx4f/EABgBAQADAQAAAAAAAAAAAAAAAAQBAgUG/8QAIxEAAgIBAwMFAAAAAAAAAAAAAQMAAhEEBRIxUXETgZHB0f/aAAwDAQACEQMRAD8AENMideL5CtiJhZDy9m/Yk7UgEnjHwKTk6BjGU9GGpJpeZb6rgQy2oIT8niob0jATr2GsnHTS6vOM47SPH80mOTt824yUN+1ZhrPvVAd05knlA+q5rdGXW4UVgDHYdSfE2tAbuJF7n5Mnb7oZVttDFxRqdxxiQ4GmiY6e5R8fv6ovXcpxKm1yCeSk9qefx8U1+pUiI7ZNPmCHkMNPKlMMq5wduAFEnwOTQY83039h8g+aVtBs5Ru3B9h9CG1b2UYa0vbHk/ssfSdYb1Q69vKCiOvBH7IFIF1t63RHbgTTHPUKsqXySeSMH/aEbfPlW+R1oTymnMYyn8j4qlj60fdLQu0RuUltW4FI2HP9VOt0TWN9WnaGpcVGDKv1Mmu9KOw4U7mIqs7Txkkjj7FFO4lYJOSTW/qa8M3aVJltKWkuttshpQ5SAdxP3isRXSDAG5HUSc5APdz4pW3pKVcT1lWHlbM//9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>EINHORN</div>
-                                                <div class="unlocked">3 Jan 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwABAgMIBP/EAC0QAAIABQEFBwUBAAAAAAAAAAECAAMEBREhEiIxcdEGBxNBUWGRCBQVMkSB/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAfEQEAAQMEAwAAAAAAAAAAAAABAAIDkRETMVIEFEL/2gAMAwEAAhEDEQA/AOfhdK1RsrUMANANlekQ3euHGqYcwvSPIdC3OHr6d7j2erJVTQNYKZK6WhmrWT9mc9QoIDZBG5gsuANMHzIhWzb6mJQ+VfPtywR/LV5/qb4XpFG51r7rVDEHQ7q9IfO+/sPaJ1qqLxZ6STR10iWZzrJXZWaqkBsqNM4YEH2PrHPIG8ARrmDZt9TEPav93LKbBLc+EN/dRc7RLpvuVnW6TcfCEhwEEmZsjH7EnDcBqMep1gO4kxMZ4jP+Q2mpDQk1dsqRTiNvej24pDa6m2W6oSoqZ6tLdpbbSoGILa8lxj3gVB3lPnmMMH0PxG9vCEgDaTxFOcgHe14Rms6B5n//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>ABWÄRTS</div>
-                                                <div class="unlocked">2 Jan 2024</div>
-                                            </div>
-                                            <div class="description"></div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+2 others...</div>
+                                            <div class="description ellipsis">+4 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1852,7 +1852,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jan 2024, 21:09:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jan 2024, 22:07:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
