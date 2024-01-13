@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.34m added, 1.76m removed
+                                    279k added, 84.6k removed
                                 </div>
                             </section>
                             <section>
@@ -315,8 +315,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="322.42 329"/>
+                                <text x="60" y="60" dominant-baseline="central">98</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -331,8 +331,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
-                                <text x="60" y="60" dominant-baseline="central">100</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="315.84 329"/>
+                                <text x="60" y="60" dominant-baseline="central">96</text>
                             </svg>
                             <span class="title">Best Practices</span>
                         </div>
@@ -370,19 +370,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.31 s</div>
+                        <div class="audit text">1.05 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">1 s</div>
+                        <div class="audit text">1.05 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.06</div>
+                        <div class="audit text">0</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -412,19 +412,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.31 s</div>
+                        <div class="audit text">1.05 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">1 s</div>
+                        <div class="audit text">1.05 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.06</div>
+                        <div class="audit text">0</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -598,7 +598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lrsjng/h5ai</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP web server index for Apache httpd, lighttpd and nginx.</div>
@@ -1177,7 +1177,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 966k out of 53.5m repositories</span>
+                                    <span class="gh">ranked 966k out of 53m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 25 stars</div>
                             </div>
@@ -1223,7 +1223,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.60m out of 53.5m repositories</span>
+                                    <span class="gh">ranked 2.60m out of 53m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1674,7 +1674,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        5 hours played
+                                        7 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1691,7 +1691,27 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            19 / 122 achievements unlocked
+                                            21 / 122 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwECA//EACoQAAIBAwMDAwMFAAAAAAAAAAECAwQFEQASIQYxQRQiUWGRsSMyQoGh/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBAgX/xAAeEQEAAgEFAQEAAAAAAAAAAAABAAIhAwQREpEiMf/aAAwDAQACEQMRAD8At++0U9EKK4mIbInZHJYKNrqRyfA3Beew0qtXUtqu1b6SllkFRt3BXTGcDkA+SNdupKK2yVU1zuVSyStCURS/sLKp52+TjHHbVY9N3JLVf4qmUosbxlWPHtOQc/cY/vTG6OZQp2OSXVR28v8Aquvs/jnz9dbXCNNgC4GB20JQXhaikVqB/UQuTsKAnscHGkt7uUokgZ2CRFmRgT8qSP8AVP30WFYDwSN9ZXClu1vjUCN6jaojBXcQ5Ybseew76hFXBEmElYMyjAxlR+OOdSWI1JY7Y2GxcRsQBtB7gfnSaqstxll3LHHt8ZfWffd6fb6uexxUDLGPRVZVJcHo7bXTUcLQO8qRsXL4KgbQSACWYc+PrnQ13urQzJFUGVTSShZEkbnjI3D6HJz8YOhUpuoLbHEbbHTpIk6zswILSbcFUYnugIzt45OTnAxnqmnkrbjHdIaWZXrAfV0v7jA/GSrdmQ+PI5B+dBuNK35c9kYGf//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Traveler</div>
+                                                <div class="unlocked">13 Jan 2024</div>
+                                            </div>
+                                            <div class="description">Travel 10km</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUDBgcC/8QAKxAAAQMCBAUEAgMAAAAAAAAAAQIDBAARBRIhMRMiQVFhBhQykTNSccHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMEBf/EACARAQACAQMFAQAAAAAAAAAAAAEAAiEDERIEE1Fh0fD/2gAMAwEAAhEDEQA/ANjQ8lKLAa1G48ywpHFcQ2FmwKjvSN7HEMgkN8oF7k62/igZ80zSl9yM4gR0qc4ZWFFRCT8bdf8AKbeoYYOKuZenYoy2UdqXvQQW1HMRaqe7j2J4omNKjPusxXW9UhGpJuQSrvt90PIxCYJK20zUsyCkWW6FL0tY8otf7o9w32IuMY4cth4LcgOM5RZGW99u5HWhG4BaiLS7nW4SfirQnwb2qhMCVEjNowFTETiHI7mSSAOigO+486dqhXPxyE85FTiKJBKOIhbicqrndPjbTeuE6fWVstbiez5Kcbb4j2BHl4b6kZkynD7BiEljJxLAqCRflv8Atc38VxjmIx2nWZCUraT+NOnLptbp07ms89T+pMReiNxJLbsaewvOh4LsSk3BFwdQf6ojClY57dtyTEEorIshiwe0vrktlUfHy2rZpusBa4fvEpQLYcT/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Storm the Gate!</div>
+                                                <div class="unlocked">13 Jan 2024</div>
+                                            </div>
+                                            <div class="description">Complete "Castle"</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1705,28 +1725,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcC/8QALBAAAgEDAwMCBAcAAAAAAAAAAQIDBAURABIhBjFBE1EHImGRFSNigYKSwf/EABcBAAMBAAAAAAAAAAAAAAAAAAADBAH/xAAgEQACAQQBBQAAAAAAAAAAAAABAgADERIhIhMxQVHw/9oADAMBAAIRAxEAPwDULe5YAYPPbQsdST0lwq475SR0drabbQ1ykskidvzO4Rs59tLth+IMcwPqWaviMS7mIwQP7bSe3jTFRdUW38JWC5wVUEfo7ZVlpXZCMcjIBHP+6Gv2U7mgcbsIzQBXRXRlZGGQynII9wdcMJskkEIO58D99AehLnTT2x6KCUutFIYYi6lGeI8oSp5zjI/jqbrSiFwtm1mRI1DFt07w544+ZQQR9GBGmq+S38xJWzWmHdZ363W+kFLVUsNVWsvqR+soKwrnBbnycEce3OjVLPYhYaSqoKGF66aGOQRtJJTDJHzZKdsEHjHtq7bbBUVNVQVV+joKmaOfeI44gUp0Ck4BYZYltuT241cu9Na36pQVkiQI1OrbCCFdyT5zgcDt5OoqlOy5ES6nWYHFTqDLEl7vnUMlTSUlLT01OyRStDcJohjnleCWbGftp56lvTU06UcU00c0Y3llBG9W/V28Y++q9unt9qgaKgiAVm3tgY3N7kk6juFXFcFAqKeA44Bx8wH0PjUaP0+KaH3uPamG22zP/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Brute Force</div>
-                                                <div class="unlocked">13 Jan 2024</div>
-                                            </div>
-                                            <div class="description">Complete "Demolition"</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYCAwcF/8QALhAAAgEDAwIDBwUBAAAAAAAAAQIDBAURABIhBjETFHEVIjJBUYGRFkJDYWLw/8QAGAEAAgMAAAAAAAAAAAAAAAAAAwUBAgT/xAAfEQACAwEAAQUAAAAAAAAAAAABAgADEQQhEkFRgdH/2gAMAwEAAhEDEQA/AFKz2Our66Sjo7TX1KQxMUeBF2qzKVbJJ4Hvcj5nnQ1Bbaey1dGb3TCRorpDDKsiZwpB3KVbjOVOn+ywy0nVuaWoSnn8VoVaRSUIZuxxzzxrsXHpma+VrUdZcY6hnkEtZTU8asCFGFILLhOMAbv3DOdAV1Vw5E1m12qNW+D+7CqXp28+Vh8p1FSmm2ARMKST4AuF/lHyx99VVNku8RIm6ro4m54NM+eQB28X/s6n7NkjtPsjpaur7dUo4RZat3VcgbipUqcOV5AGM9wNX3Hpy9PbKTytdE91UL489RISr+7hsYXPJ/A1c9NYOQI52K+oEQO1VlppuprhDW07z1rJHJENm5QGB4H+iVP20Nc6i49OXIzw26SJJJMBAhMSLtGDvHIPxZB/rGgrncaq19UUktugp5J5qZmbxkDbvDJKhfo2SMN8taDaLgo6fpp6qoj2TU6NNJJIMMSMtk9u+dCrZQwLDR8SXViuA5sRP1rWWulqJ23Mhdp51Vid+T2XdnGOB6DHGnmwdQ2662dKqSp8MFAWcAcenBz+PrrCPbCTs0UqRNA7bGUgnKk49Bxpm6bnpbZVUFIZttpdyk0jS/B3K8+pIBPb76adXHS9Zsp9vvYt5+q1HCXb5n//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Surprise! (Avalanche!)</div>
-                                                <div class="unlocked">13 Jan 2024</div>
-                                            </div>
-                                            <div class="description">Unleash the boulder gate in "Demolition"</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+16 others...</div>
+                                            <div class="description ellipsis">+18 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1887,7 +1887,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2024, 14:08:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jan 2024, 15:06:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
