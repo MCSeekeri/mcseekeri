@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    10.6k added, 2.92k removed
+                                    4.30m added, 1.68m removed
                                 </div>
                             </section>
                             <section>
@@ -313,10 +313,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
-                                <text x="60" y="60" dominant-baseline="central">94</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="250.04 329"/>
+                                <text x="60" y="60" dominant-baseline="central">76</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -370,13 +370,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">1.52 s</div>
+                        <div class="audit text">1.53 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">2.84 s</div>
+                        <div class="audit text">3.25 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
@@ -412,13 +412,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">1.52 s</div>
+                        <div class="audit text">1.53 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">2.84 s</div>
+                        <div class="audit text">3.25 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
@@ -1183,7 +1183,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 894k out of 79.6m repositories</span>
+                                    <span class="gh">ranked 894k out of 62.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -1229,7 +1229,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.65m out of 79.6m repositories</span>
+                                    <span class="gh">ranked 2.65m out of 62.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1730,7 +1730,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            9 / 50 achievements unlocked
+                                            10 / 50 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAABwUGCP/EAC0QAAIBAwMCBAQHAAAAAAAAAAECAwQFEQAGEiExEzJBYRQVIlEHIyVScbHB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAkEQABAgUDBQEAAAAAAAAAAAABAhEAAwQFITFBgRMiM2Ghkf/aAAwDAQACEQMRAD8Ay/bKV6urSNI3kGcsqdyPUD3Pp76vFftihlqayO107yfFU0dRbwrEnzYdf9Oe2oiw0l1stQtRLQ1AgmQB1eM8JUPXzDynsQfQ6W6Wq+Qbbp6yVGamvlStPHCiK8jxjmJMqw4gM7ISMjJXPY41hXGsXLWnpF3wGOu/xvx+Iiqb52Va7Pt23VVDBG73LIhmjlLrHwP5mTkhsDHUdM5A7aMrxbKm01YgrIzG7KHUH9p6jWgr7URTbN2+Zo1nrKB6iKZVk8QSyL4Z5HAyOWVbAGMYA0Tbhsm4L1NPcZ6SYoiluUmFIUdeKpnIHt30m0VswpaerdWSfbBuIIlNpbhqqm2SPcL4lJFRhU4CFWkcY6YJ7k9u2dKm0qVd57bmoGWY19DVLWUyygZCfSGUHogcsMHIPEMcddZptsy09dDK+eKsORUdQPUj3+2luzfiXR2DciLbVWS0PR/COHDKBk55HH1dCB09cnr66Vd7bMU5pU92owAzbe3gizbrihtm3bZRU8UVRJM1TXyPLlvGXxWVSWwG6JgEjtkdCNFG56u1Ci5W/wCYUdxLgNAZi0YX7g+o+2Dqdr96Q3SkramtuP6vBVNLRS+EQCg8qAAYCkZGNHd5rhcbjNUrCkCyNkRJ5V/j+9WLVRTJfldwSTrkkvyM/NoI/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>King of the Crystals</div>
+                                                <div class="unlocked">29 Mar 2024</div>
+                                            </div>
+                                            <div class="description">Fully upgrade Health, Armor, or Ammo in a single save slot</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1754,18 +1764,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQL/xAAoEAABAwIFBAIDAQAAAAAAAAABAgMFBBEABgcSIRMiMUEUURUWgWH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQIG/8QAIhEBAAAGAQQDAAAAAAAAAAAAAQACAwURQSEEEjFRI2HR/9oADAMBAAIRAxEAPwCXouickZGlomVIS7UOoZSVq2pBUQBc+hzhxU2jAGZG2nat12IY6iKhxJQXXHm0lZQlCSSgEA23d3B49YHdLMiUE5FS+YsyV1TQQUUAVOsJ73F+dqbg+OP6Rg3RkjOeosi3JCQq4mDdaD9EqsqlurKblIJSkiyyLqPAFiMc1c7l21WSSsU5ZRJlNoIHtxzg8bhGRUaOpela59yo/HRp6RpaZlXyHllwKKUXc6fPaTY2JuLDCfk6NyPkamjeStDrDimlJcTtUCDbkej/AJh6qybm/Tiack6qQr5PLzKEu1b9FUqQtKb2vsVe6k3vYgi316C9W8gpy81QT0TIuy0JLXdRVrT3JWe6yiPsG9+OQR6xbZcu6qU56xPLMBKhsOR2OOeeWEcaVajs5QoZSKl4z8rCyIHVp94G02IJAIsbjyOPAxQWXc0GbYhpihoH1ZfD5bYp0vNpVStoTs67g8lKTvBBVwLHnEa4OtMc9nJa5RSqX5fyWUpbbWrsCwoHuHsEbh/cYvVhp9STV6EvyPky4dewHG/rG4RR+Ys0CLiZWUl4qoRl12oU2/Tl9srfaWnaHkAEGy1AWAV43HCD1X1JYzbHxcPBx64yDjx2MKWCVkCybgcAAePPk4zNUM8/ubsStFOaYUtL03UA9hcKiTtHpIFgL/WAXCy2Gn0xLXry4qHgy4Ne0XG/yJH/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>It's a Magic Number</div>
-                                                <div class="unlocked">28 Mar 2024</div>
-                                            </div>
-                                            <div class="description">Kill 666 Demons (excluding Player Demons and Wolves)</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+6 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1891,7 +1891,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2024, 09:39:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Mar 2024, 10:14:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
