@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    403k added, 54.7k removed
+                                    282k added, 87.5k removed
                                 </div>
                             </section>
                             <section>
@@ -315,8 +315,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="282.94 329"/>
-                                <text x="60" y="60" dominant-baseline="central">86</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="286.23 329"/>
+                                <text x="60" y="60" dominant-baseline="central">87</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -370,13 +370,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.25 s</div>
+                        <div class="audit text">0.46 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.33 s</div>
+                        <div class="audit text">0.93 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -412,13 +412,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.25 s</div>
+                        <div class="audit text">0.46 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.33 s</div>
+                        <div class="audit text">0.93 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -531,7 +531,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        580
+                                        581
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -597,7 +597,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        217
+                                        218
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1201,7 +1201,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 913k out of 200m repositories</span>
+                                    <span class="gh">ranked 913k out of 193m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -1247,7 +1247,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.68m out of 200m repositories</span>
+                                    <span class="gh">ranked 2.68m out of 193m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1731,7 +1731,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        16 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -1748,7 +1748,27 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 45 achievements unlocked
+                                            8 / 45 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwgF/8QAKBAAAgECBgICAgMBAAAAAAAAAQIDBBEABQYSITEHE0FRCJEUIjKB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/8QAGBEBAQEBAQAAAAAAAAAAAAAAAAEhETH/2gAMAwEAAhEDEQA/AFp4y0rHqnUUFHUOEpRZpDYcKFufjDbfx9ptJNsGS76YSmP3StyyCMuJBbizEEDvkc4GfAURNHqWdHh9sVE20SG20lO/u2DOvzCGgHqqpHFIhjijWKR0jX+obcCbEG5PfWJjuuPnXivIavIGzLJnamkjh9z00i3dSwuoIAvjP1VFPTVrQTqVZSwZWUD4ONeUDmiD1UzjYJAK93Dbp4SNqG1jb/S88E3/AOYRnnXIKPJ9Wh6EbEmBYqCLdHkAc/vAvKv/AB7nU62NHJKwSqiaFo+g6lOQcG2u8vlFRTZUTG0zyeqSEMBvaMcMosAFseuzY36wktGajqtL6hgzOlhSUwsrBWYWbjkHBfm3kibUGYtUZvSwzXPKO+xQvI2rY3+b8/WEWG1ohZ59PVNRWupf+MY32SFdpQBQ1gbNztJU8/I7thefkFUO2a0VPUFffFAL7VAudtr9X/eJ6N8jZflMcsWYxiWheRZTBGwZmdOBuv8AY7t9DAFr3VMuqc/nr3QpG19u7aCq2NhxiG2x/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Wheel of Pleasure and Light</div>
+                                                <div class="unlocked">21 May 2024</div>
+                                            </div>
+                                            <div class="description">Reconstruct a vision from the past</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAAAQIDBAUGB//EACkQAAICAQQBAgUFAAAAAAAAAAECAwQRAAUSITETQQYUUWFxMkKhsfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAHREAAwACAgMAAAAAAAAAAAAAAAERAiEDYVGBof/aAAwDAQACEQMRAD8A4FbBStzRgvEDwB9Pxqz+ItoTYYtvWXcGlvWK6zT05IFSSqSMhWwSMsO8eQMZAzjVVMvrpLGHVQqA58kniOtaLYt8tbxVvUNwsGe9PCUF+6/qiKBQWZOJ/dkdMMtnoaEUzIyWJvRDclUE+QoJP8aNSaWSVVZ+S4IYcR9D9tBYprsSrXgkd191GcDRSN4LUaSKVYkls9HPE+f976NCjlJ1atPdstWqxhnc9sc4VeIyTj2Gntt2f5uNn+SvQbczJyvSAKpBbCkAgA5J/SpJ/ODpmG1ZqzGWqXRsDDI4Geh9/t76SLcqlHWo/rJkxq1jlFEfqqHx+M41Lptg8Elfd8dF2lTZ3iWJLG5NUjJ5iCJWd5OXlgT0pAGDg++o++WXdatXj6ccTyMsLPzaJSDxUseyQP71C28rBSjUKVtyO3qyclHFPAAOffvTbRlpTLJMCcueOB0MHHYPk6Sx+Dy5anNXXR//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Bother Kim After Hours</div>
+                                                <div class="unlocked">21 May 2024</div>
+                                            </div>
+                                            <div class="description">He probably won't mind</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1762,28 +1782,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQHCP/EAC0QAAEDAgUCBQMFAAAAAAAAAAECAwQFEQAGEiExBxMUQVFhcRUigSMzQlKR/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgMAAf/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhEDIRIiQdHw/9oADAMBAAIRAxEAPwDnWU642tQQ6kAWsLDYWG3HOG+SOneYc5Uh2bSFxwlFwO+oI7iha4TZPuObc4ASnwmoLSq2mw3PkbDD7IvU6t5Pob8OkLjqbeV9oda1qbUdrp/wbeuOSutDx8b7AsCWiW8w+Sl1pZbUjQLhQNiOPUYolMT4UtlifGejqcBVoeZ7ZKbHcAjjHQHR7py3RY685Z7W2zKWe+01JUEhm+/ccv8AzN7geXzjNup+Y6dUXKbSabUp9a8LJkPmpTRZSgsfto89AtffzPGDydpFHiiott/eyzpKuEt6oQ2JVIh16RIY7T1UYDra2AP1G03BAUdvni+EvVHIzvT/ADBFzflmCzIpLD4eXEcb1ojr8rj+hJ29D+MYc4h4SVrQ3qQbWIUPQe+NJyJ1XruX4op1Xj/WaMpJbXGkLSVJQdiEqJ49jcfGM4+RRy2lF6oLZpznX84Tu9WZq1oFy2yPtaQfZPH55wcZCvGJCwnULn4Fji6rraeq8p2kwnYsFbq1MMrcSotoJuATffETDbwm9xxvSmxudQtwffDVUQm23tn/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Gurdi-Ball Is Lit</div>
-                                                <div class="unlocked">21 May 2024</div>
-                                            </div>
-                                            <div class="description">Get your pinball on</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwYEBQACB//EACkQAAICAQMDAgYDAAAAAAAAAAECAxEEABIhBTFRE0EGFDJhcZEigbH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwIE/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxEEEjIx/9oADAMBAAIRAxEAPwDiaQqkcLNFGUaNSDtHehoLGNd4ZIwAxF7Rx49tTsBI84xx5Mpix4I1tUW2karrvwKHJ/GpfUmwy8p6cI8RUpqaPeJASa7+4Hcnv9tBsAOZKpSzDtspkxZ2Ygw0ACbICj91rGeO5ImihsRNTBRya76aOqQmPDxhPNG6TQRvFGkIhB3AmzV88c3R899KBDSZczNXEZb8/UDpVww0QsqNZwwr48kuOHaJmhUKSaO36aF/b86N0vF9TPjMZRXUEiuK9v3zrWWJUxInjzsZ3kRSYU3bl47MSNt/a9XHwW+NivnZWXnY+NKsRSJZGB38WaHm9oH9+ND+Dk1V7Gy6+JBvxMP1xGIseJAYz/EkbCVBPY2tG+OTVd9IuYPT6qUdWR/lgGB87b/zTfnZXS3gw/RylYCnkUyLVKKUEG7a+eT28ChpS6tUvWHyF27AmwMJg/ZSP141GjQMM6eaQzdgfs//2Q==" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Unbelievably Boring F**k</div>
-                                                <div class="unlocked">20 May 2024</div>
-                                            </div>
-                                            <div class="description">Say 7 incredibly boring things</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1909,7 +1909,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2024, 22:07:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 May 2024, 23:07:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
