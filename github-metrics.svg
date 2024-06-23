@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    444k added, 61.7k removed
+                                    4.34m added, 1.68m removed
                                 </div>
                             </section>
                             <section>
@@ -313,10 +313,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="266.49 329"/>
-                                <text x="60" y="60" dominant-baseline="central">81</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="312.55 329"/>
+                                <text x="60" y="60" dominant-baseline="central">95</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -370,13 +370,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.91 s</div>
+                        <div class="audit text">0.74 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">2.77 s</div>
+                        <div class="audit text">2.63 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
@@ -412,13 +412,13 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.91 s</div>
+                        <div class="audit text">0.74 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">2.77 s</div>
+                        <div class="audit text">2.63 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit average" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                         </svg>
@@ -531,7 +531,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        582
+                                        583
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1196,7 +1196,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 924k out of 207m repositories</span>
+                                    <span class="gh">ranked 924k out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 29 stars</div>
                             </div>
@@ -1242,7 +1242,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.70m out of 207m repositories</span>
+                                    <span class="gh">ranked 2.70m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1743,7 +1743,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 47 achievements unlocked
+                                            7 / 47 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcFCQb/xAAtEAABAwIEBQIGAwAAAAAAAAABAgMEBREABhIxEyFBUXEHYQgWIpGhsSNCYv/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwEE/8QAJhEAAgECAwgDAAAAAAAAAAAAAQIRACEDEjEiQVFhcaHB8ASBkf/aAAwDAQACEQMRAD8APvp5k6ZnOuogRDw27jiO2va+wA6qPPsORJ5DFszN6U/KZZi0jL5qbukFb6oa5RJ8kafskYnvpm9IhxqeqItbRXI1LUjc3UE/ofk4akRxLlNZkNT5CoqSsrVJ1A6gSSrpcCx0jbzjlfFIm3eP2g7cohgiL9RNEudkdMqCtVTypUorqblT0WnrZKR1UABoNuxA8jEkzNQnqFNQ0txD8Z5HFjyWwdLyNrjsQbgjcEY6GVCorYpiCiSFJcQ4EhAvxQQLWB535/vAiz2287l5BfBCY74U3cbahZQHa+lP2xLB+WuJiMiTs5Z4bWkHfz3XoCshVHM5pg9NZ+q2/RJcWc2YzjiUSobqXQlXVBUPq8A7+RhiMTGF094SpiVyXEaOIhu6EgH6eWxt3645x06dJpstuVCeWy+2bpWk/j3Hti35G+IKRQqaqFUqQiS2pJTdtQ0gnchKh+L2xd8JpsbdJ8itAhiw3x2t77ClgO0iPpLrzDkrQeI+oHf/ACFE6R7YJ3xDT4EQU6hU5KQ6j+eQRv2SD79cY9c9VkOOLdotK4MlV9L0lYVoPcIAtfySB2x58VqLmCjPM5hDr9Va5RZaVWU2kq1KKx/dNyeW4JuOVxhQjJAOnIR5NOihznazAGLzrreOFf/Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Skill Pro</div>
+                                                <div class="unlocked">23 Jun 2024</div>
+                                            </div>
+                                            <div class="description">Obtained 60 skills.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -1767,18 +1777,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcFBv/EAC8QAAEDAgUCBAQHAAAAAAAAAAECAwQFEQAGEiExE0EHIlFhCBRCcSMygZGhwfD/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/xAAiEQABBAICAgMBAAAAAAAAAAABAgMRIQAxBEFhkRITIvD/2gAMAwEAAhEDEQA/AD74eZOmZzrrcCIem3cdR217X4AHdR37gbEnYYrWcskUbIrrUCNHp0qSE/iOyEiQrV3Hm8v7JGOM8OVS2YENFOX0nn3iNQNrqUoIFz6W/vCipxVFYjQ6tSXq9NWopE1xDaNZ3G/m24NtW5AviIQXJJzRtlzkFTbRj4xJru4sj+nDW5S6BVWOlJpyW5Z4VBbDawLbkJB0mwF7ED7jE5zPQnqDOQ0txL8Z5HVjyUAhLyOLi/BBuCDuCMLvM8IVGlqTTaYKQS45H6yNKg8QDdN7309rp9d9r4Ome23nsvIU8FBLD4U2CPy6xZQHpfSnb2xFpLRB6xPcZ3jLS06ZKgSDXWxRPV+vMbvgY9ElKQy8pIkQZCH9Cvqb1g3/AENwfuMI53MFNl06SUzIjUTpOEsFgl4yQpW/HB2soG1trYC1OnSabLblQnlsvoN0rSf9ce2Ljkb4hZdCpqoVSpSZLaklN21jSCeSEqH8XthtLLRMaxcZ4sOFxImY8a0dHLsvNlNC3E/OU92O6UiGw22S82SPOXbjbvckm5tbB7+IadAiCnUGnJSHUDryCOR2SD798ZNd8WQ44t2i01TMhV9L0lwKCD6hAFr/AHJA9Mc6K1EzBRXmcwh16qtbRZaVWU2kq1KKx9abk7cgm42uMB5ZWQYrEtwchX2K/JAMCZ3u4Fx7u5z/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>KamuroGo Tourist</div>
-                                                <div class="unlocked">22 Jun 2024</div>
-                                            </div>
-                                            <div class="description">Completed 10 KamuroGo City Missions.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+4 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1939,7 +1939,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2024, 14:11:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2024, 15:08:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
