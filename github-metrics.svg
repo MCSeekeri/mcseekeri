@@ -30,10 +30,10 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -216,7 +216,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    57 views in last two weeks
+                                    54 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -768,7 +768,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        7 hours played
+                                        9 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -776,7 +776,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 4 Jan 2026
+                                        Last played on 6 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -785,7 +785,37 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            8 / 68 achievements unlocked
+                                            11 / 68 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBAcI/8QALBAAAgEDAwIGAQQDAAAAAAAAAQIDBAURBhIhAEEHEzFRYXEiFBYyYiOhsf/EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDmnTdirNQXJaOgUbsbnduFjXuzH26chb9HWhTE8NbfZ1/nKkohhz/XuR/r56ksApbX4fRGaWeBrxNIJpYYw7+XHwEwWXgn1OfQnopo/TOnr9Ux+Zd62CAP/nDIqsiAjOAFYE8jHPf46mqgSLdoy8gwxRVtjqDwkryedDntuzyP+fPSZqWw1mnbm9FXqN2NyOvKyL2ZT7dapfdI6btlTUR0mrZmkigaojiltjtvABI/NTtwccHH2OgV8Rbt4aNNKQ09pqFETE5YRPxt+gfT6HSFWtE3KP8AZ9DUijgr2sdZvqKaUZ3QMd24YPYj64OeM9PFP4zUtvNU1m01T00UkwaOBWWMFNp3FmQfz3emBjBPfrBdN32s09ckrKBhuA2ujcrIvdWHt05rcNGXYedJLWWOobl4li86HP8AXHIHxwPjpCtNm8YornTvFV2N5aSRkWWmlnWUSRcmTLFR+WQu0bceue3Sd4j3enfSdfUR0cdAb5WCSnplA3CFMHe3yT7YHIwB1Qnv+jbZEksP6m8VaJt2CLyIpGyTucH7AwOOBx0g6nv9dqO6NW3FwXwERF4WNB6Ko9utpH//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Railwayman</div>
+                                                <div class="unlocked">6 Jan 2026</div>
+                                            </div>
+                                            <div class="description">Get into the Trolley.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcECAADBf/EACwQAAEDAgUDAwMFAAAAAAAAAAIBAwQFEQAGEiFBEzFRByJhcaGxFSMyYoH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwCtOW6FMzDUhhwBRSVNRmWwtjySr4wbMUjKUDqMI3LrkhoFcceF3os7WRdPK9+/b5xlDH9I9OmXY+0mryDR007o03tp+ir9lXHdyTlqVWcs1+dBgrLmBIYjiAqQ6wc2cG48e5su3C+MTVQOrTcoVUlji3MoclVsLpOdZm/9l7onz2+cB2ZKFMy/UjhzxTUiagMdxcHgkXxhghlqO/TsyVIZEkGoEhWIoNx+p1l/cJVMrogggtlckvvxiBWBSqenTpP3KTR3wFo179I9tP0RfwmEK3UJ1an6cNtxrHIpEgydbVLr0j3128Iv2RcNz0NGSmVqtGgSWWZT76SmSaMXT2DSoKiL7DuIql+CvZd7Vsy1XZmXqmMyASaraTAtxcHkSTxg7h1vJ090JThSaPI2U2OkrrN739iiqEO/hU+mEKcJUmHl/JGdJUiWJQ5bzsuFGdSyIBiWgUv/ACU1csttk0Lyi4StZtSPTl1t/aTV5AK2K9+k3vq/1fymJlQzBlWM8Ut6VUMwzEJTbacBWmBVVVey8XVdk2+MAOZa7MzDUzmzzTVbSADsLY8CKeMKR//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Fisherman</div>
+                                                <div class="unlocked">6 Jan 2026</div>
+                                            </div>
+                                            <div class="description">Kill the Catfish.</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcDBAYI/8QALRAAAgEDAwIEBAcAAAAAAAAAAQIDBAURBhIhADEUIkFRBxMVJGFicYGRkqH/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/EABURAQEAAAAAAAAAAAAAAAAAAAAx/9oADAMBAAIRAxEAPwDmvTFgrdR3RKK3oC5G53bhY19WY+3TOt2hrDTU8beDqrzuz91JVx0lOxBwdhY5YAgjIBGR36qaEigt+mLMjoG+u3JIqnkjdArhSmRzg55/AnolcbDqe8VMM1NRCntUbLBFLE6RRRqDtyVDZCjnjHYHuSSZqoiuWhbBU00hFHVWcrgeKjqo6unUk4G/axKjJAyQByOelfqawVunbm9FcEAcDcjrysi+jKfbpw1Ngu2j79DQ1zrV09erRq7RO0co9RtkAyMYyORgjnIBAX4hQx3DTl4AjRfolxaOmwSSsDOVCZPOBj/B0hQmzSvcPh3A1G33lkqWkcDkiN/MHx7AgH9j1e1VQpchFqCji+1reZV25+VIB51P6E/12t2PC+03fazT9yWsoWG7G10blZF9VI9umHadUaZaZqmCprLI8oAnomh8TSyY54XgjucEEEZOMdIVotJ3u40+mHN6zNa6OWKWm+exaQyIrCOOMk4CsCQeMlQT2UZzWrJRbdAzipk3Vl5qEdfQlF8xfB55Yn+R1JeNU6aEyVU9TV3yWEEU9IsPh6WLP5eSc4GSSScc56Xmpb9WahubVte4LY2oi8LGvoqj26Uj/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Gunsmith</div>
+                                                <div class="unlocked">6 Jan 2026</div>
+                                            </div>
+                                            <div class="description">Install a modification of each category on a single weapon.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -799,38 +829,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGCP/EAC8QAAEDAgUDAgQHAQAAAAAAAAECAwQFEQAGEiExBxNBFFEiMnGCFTNCYXKBscH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAMf/aAAwDAQACEQMRAD8A5qy1QpmYakmHAQCq2pa1bJbT5Uo+2Eug5JokhxUSkUuqZqmtfnuML7DDR/kdt97b72xNoDKKZ007zTqWpVVfUFn9SmkbaB+x/wCnDN0hrSKfkqlsN0mY62/NfTLmtgBpgj4i44o2GkI0i4PgjkWxNVBRX8mUSM+3Dq1JquVpjoJZdkLDzC/u4t9OPNsG+ZaDMy9U1wp6U6h8SHEG6HE+FJPkY6c6z1cTsm1SJKo82L6WoMtxpT6QW3T83cbUNtKkax/YHOwFqzpq/Tp5x4D1FIkoDSvPac20/QH/AAYQqlkdmBXsmRY82W5FRSZDhfW213VJbcBIVpuCU35twATjY9PqnApZrVDnVQvMyWT+HltSwwtxY0rb0KsLqOgi45Tz7hWWa/Ny7U0TaesBQGlaFbpcT5Soe2EOHmXKE6TGnKXKok1laXOz2e+wVJIOwFja442whWs6tzqlJT6WU7224y22nmEvKKdaWwE3T8t+Vffq87YOtWpHTp5t82kViQgtIPPab31fQn/Ri7mzPGXKhPXUp8iVXZtypuOhj0sZKibklPm55JuTYA7ADBdmWuzMw1Nc2esFRGlCE7JbT4SB7Y2kf//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Silent marksman</div>
-                                                <div class="unlocked">4 Jan 2026</div>
-                                            </div>
-                                            <div class="description">Kill 30 enemies with Tikhar.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABwQFBgMI/8QAKxAAAgEDAwIEBgMAAAAAAAAAAQIEAwURBhIhAEEUIjFRBxMVYXGhJENi/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAL/xAAVEQEBAAAAAAAAAAAAAAAAAAAAMf/aAAwDAQACEQMRAD8A806bsUzUNyWHAQFsbnduFpr3Yn26TbboqwUIqOkKVe85HiqkunDjsQcHZuILAEEZAIznnrjoGNQh6Zs6PTD/AFy5JSk5yN1BXClMjnBzz9ier63WGRqq+SllSa0K22taVM0LdQLVam5giU6ajgEk9+FGTzyTNVFNcdFWCRGZmgy7KQQPFU5VOXHUk4G8qxKAkgZIAyRz0aalsUzT1yeHPUbsbkdeVqL2ZT7dO2rLJE0lMtUW2yaUppQeJJjyWaQ9Z+d5P9YVcqhUck/gFcj8QY8adpi8CkoH0S4tTj4B8tFnK/LGey44+wHSFQ9M11n/AA8o+Hb+ZZZDVGA9VRjuFQDvgj9HpCgauawxa1+s1rWRSujIZLtWYGlsU76QAHBBY+b12kH0bIAdNX2Zp65pNgMNw8ro3K1F7qR7dJdl1jpol61KRKsr1cfPhtQ8RFqEewGCPU4III7Y6Qq4F2+oPQvs+DRt9ptFMrb4NBdqF3O7aM8kuRkk9tzegyctqOqbb8O6oluTLvUhaig+pRTuL/gk/sdT71q3S61FkVJEu+VaQIjxVoeHjU8/5OSfQZJJJxzno31Rf5eo7rUnTSqk+WnSTOykvZVB7dKR/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Handyman</div>
-                                                <div class="unlocked">3 Jan 2026</div>
-                                            </div>
-                                            <div class="description">Spend 500 consumable resources on crafting.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgIDBAcI/8QALRAAAgECBQMDAgcBAAAAAAAAAQIDBAUABhESIRMxQVFhcQcyFiIjUoGRsfD/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgH/xAAVEQEBAAAAAAAAAAAAAAAAAAAAMf/aAAwDAQACEQMRAD8A5qy1Ya3MNzWioEBbTc7twsa+WY+mHKWfJtqQxSx1l8ql4aRZejET526ckf8Aa4ycpW2qh+n0ItNNLPXXieTq9Iav0Y+NPjUj+ziH4Rv7JJK1sqY+mQBGybWfX9vg+47+e2uJqooktGTrp+jHFWWOob7JWl60Op7bvIHvx84D5lsNZl65vRV6jcBuR15WRfDKfTD6LJuZZnKLY6xfILbV/wBOIZpoppsi1MFzQCvslRGEO4ORFIB+Qka9v8AwhV+T6qSsyJSvQSba+x1TSHT7ljfnePYc/wAA4Tr9Qri4EUlvoGV9EI3ONTx3HYA40tlm/VuXbmlbb3AcDa6Nysi+VYemHS3rKN4PXnqK6yVDHV4Vi60RPnbpyB/XxhCm1xza1VlCeohuVFT3dHKtRy7iWQHhotdVZuxG7UDQ6c6YC355LZ9PZzXMxrL1Uq6Bzq7RpyXJ7nUnue+oxfU3vJlsAlp3rbzOoGyFo+jDu9W15I9ufjALMt9rMw3JqyvcbtNqIvCxr4VR6Y2kf//Z" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>Regatta</div>
-                                                <div class="unlocked">3 Jan 2026</div>
-                                            </div>
-                                            <div class="description">Get into a boat.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -1096,7 +1096,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2026, 09:02:06 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2026, 09:02:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
